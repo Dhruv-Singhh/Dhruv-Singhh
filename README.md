@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dhruv Kumar Singh
-- 👀 I’m interested in AI, ML
-- 🌱 I’m currently learning Azure bot framework, Power Virtual Agent, Power automate or MS Flows and Python
-- 💞️ I’m looking to collaborate on a project on python and I recently made a project for interview scheduling using an AI bot .
+- 👀 I’m interested in Web Dev an Front End Technologies
+- 🌱 I’m currently working as a Front end Developer in Incture Technologies.
 - 📫 You can reach me by this dhruvsingh1519@gmail.com and my phone number is +91 9810868659.
 
 <!---
