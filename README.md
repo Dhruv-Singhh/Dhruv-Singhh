@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dhruv Kumar Singh
-- 👀 I’m interested in Web Dev an Front End Technologies
-- 🌱 I’m currently working as a Front end Developer in Incture Technologies.
+- 👋 Hi, I’m Dhruv Kumar Singh
+- 👀 I’m interested in Web Dev and Front-end Technologies.
+- 🌱 I’m currently working as a Front-end Developer in Incture Technologies.
 - 📫 You can reach me by this dhruvsingh1519@gmail.com and my phone number is +91 9810868659.
 
 <!---
